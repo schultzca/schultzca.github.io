@@ -27,7 +27,8 @@ SOCIAL = ()
 
 DEFAULT_PAGINATION = 10
 
-THEME = "themes/nmnlist"
+THEME = "themes/nice-blog"
+THEME_COLOR = 'blue'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
